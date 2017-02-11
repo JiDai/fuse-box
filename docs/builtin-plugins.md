@@ -295,6 +295,8 @@ plugins : [
 Access it like you used to:
 
 ```
+var process = require('process')
+
 console.log( process.env.NODE_ENV )
 ```
 
